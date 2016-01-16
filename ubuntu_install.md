@@ -1,2 +1,2 @@
-# ubuntu安装
+# Ubuntu Server安装
 
