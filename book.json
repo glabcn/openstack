@@ -12,6 +12,6 @@
         "website": "./styles/website.sass"
     },
     "variables": {
-        "myTest": "Hello World"
+        "test": "Hello World"
     }
 }
