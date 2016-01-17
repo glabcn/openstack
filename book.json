@@ -1,17 +1,36 @@
 {
     "gitbook": "2.x.x",
-    "title": "openstack入门",
-    "description": "openstack环境配置及入门",
+    "title": "OpenStack入门",
+    "description": "OpenStack环境配置及入门",
     "language": "zh",
     "plugins": [
         "styles-sass",
-        "mathjax"
+        "mathjax",
+        "autocover"
     ],
     "styles": {
         "ebook": "./styles/ebook.sass",
         "website": "./styles/website.sass"
     },
     "variables": {
-        "test": "Hello World"
+        "myTest": "Hello World"
+    },
+    "pluginsConfig": {
+        "autocover": {
+            "title": "OpenStack入门",
+            "author": "glab.cn",
+            "font": {
+                "size": null,
+                "family": "微软雅黑",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#09F"
+            }
+        }
     }
 }
