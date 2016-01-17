@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "styles-sass"
+        "styles-sass",
+        "mathjax"
     ],
     "pluginsConfig": {
         "ebook": "./styles/ebook.sass",
