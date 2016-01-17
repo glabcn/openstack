@@ -14,5 +14,5 @@ http://www.ubuntu.com/download/server
 #### 安装过程
 
 #### 网络配置
-
+{% include "README.md" %}
 [^1]:版本15.10网卡名称规则有变化，会遇到问题，因此推荐安装14.04版本
