@@ -10,5 +10,5 @@
 - **Glance**-Image Service
 - **Ceilometer**Telemetry
 ---
-- **Heat**Orchestration 
+- **Heat**-Orchestration 
 - Database
