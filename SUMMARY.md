@@ -5,4 +5,5 @@
    * [ubuntu安装](chapter1/ubuntu_install.md)
 * [Keystone](chapter2/README.md)
    * [安装](chapter2/keystone.md)
+* 基础设施即服务（IaaS）
 
