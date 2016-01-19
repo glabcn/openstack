@@ -6,4 +6,5 @@
 * [Keystone](chapter2/README.md)
    * [安装](chapter2/keystone.md)
 * 基础设施即服务（IaaS）
+* 平台即服务（PaaS）
 
