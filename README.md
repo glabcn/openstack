@@ -12,3 +12,7 @@
 ---
 - **Heat**-Orchestration 
 - Database
+
+-基础设施即服务(IaaS)
+-平台及服务(PaaS)
+-软件及服务(SaaS)
